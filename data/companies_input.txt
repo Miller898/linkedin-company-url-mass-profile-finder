@@ -1,0 +1,6 @@
+# One company name per line. Lines starting with # are ignored.
+Tesla
+Google
+Microsoft
+OpenAI
+LinkedIn
