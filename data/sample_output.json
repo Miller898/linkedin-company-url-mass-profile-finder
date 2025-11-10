@@ -1,0 +1,16 @@
+[
+  {
+    "companyName": "Tesla",
+    "searchQuery": "linkedin of Tesla",
+    "resultTitle": "Tesla LinkedIn",
+    "linkedinUrl": "https://www.linkedin.com/company/tesla-motors",
+    "timestamp": "2025-02-10T14:52:00Z"
+  },
+  {
+    "companyName": "Google",
+    "searchQuery": "linkedin of Google",
+    "resultTitle": "Google LinkedIn",
+    "linkedinUrl": "https://www.linkedin.com/company/google",
+    "timestamp": "2025-02-10T14:53:10Z"
+  }
+]
