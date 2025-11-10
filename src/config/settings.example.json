@@ -1,0 +1,7 @@
+{
+  "search_engine": "duckduckgo",
+  "results_per_query": 10,
+  "request_timeout": 10,
+  "user_agent": "LinkedInCompanyFinder/1.0 (contact: your-email@example.com)",
+  "delay_between_requests": 1.0
+}
